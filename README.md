@@ -2,8 +2,7 @@
 
 Un reproductor de música minimalista, ultra-personalizable y de alto rendimiento construido con Flutter. 
 
-MusicS está diseñado con estética premium (Glassmorphism), capacidades completas de ecualización y visualización en tiempo real de audio, operando completamente offline sin necesidad de bases de datos pesadas (gracias a Hive).
-
+MusicS está diseñado con estética premium open source, capacidades completas de ecualización y visualización en tiempo real de audio, operando completamente offline sin necesidad de bases de datos pesadas (gracias a Hive).
 
 
 ## ✨ Características Principales
