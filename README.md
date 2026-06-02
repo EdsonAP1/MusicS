@@ -1,4 +1,4 @@
-# MusicS 🎵
+# 🎵🎵🎵 MusicS 🎵🎵🎵
 
 Un reproductor de música minimalista, ultra-personalizable y de alto rendimiento construido con Flutter. 
 
