@@ -4,7 +4,7 @@ Un reproductor de música minimalista, ultra-personalizable y de alto rendimient
 
 MusicS está diseñado con estética premium (Glassmorphism), capacidades completas de ecualización y visualización en tiempo real de audio, operando completamente offline sin necesidad de bases de datos pesadas (gracias a Hive).
 
-![Banner](assets/images/.gitkeep) *(Agrega capturas de pantalla aquí)*
+![Banner](assets/images/logo.png) 
 
 ## ✨ Características Principales
 * **Diseño Premium**: Interfaz Glassmorphism, gradientes fluidos y temas Oscuro/Claro nativos.
