@@ -6,7 +6,7 @@
 
 
 
-* **Visualizadores de Audio**: 4 modos en tiempo real (Barras, Ondas, Espectrograma, Circular).
+
 * **Ecualizador Customizado**: 5 bandas integradas con preajustes clásicos (Pop, Rock, Bass Boost, etc.).
 * **Personalización**: Cambia colores, avatar, fondos de pantalla y barra de progreso. Todo guardado en caché instantáneo.
 * **Bilingüe**: Soporte nativo para Español e Inglés.
