@@ -8,7 +8,7 @@
 
 
 
-* **Bilingüe**: Soporte nativo para Español e Inglés.
+
 ---
 
 ## 🚀 Requisitos Previos
