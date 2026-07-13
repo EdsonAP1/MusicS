@@ -8,7 +8,6 @@
 
 
 
-* **Personalización**: Cambia colores, avatar, fondos de pantalla y barra de progreso. Todo guardado en caché instantáneo.
 * **Bilingüe**: Soporte nativo para Español e Inglés.
 ---
 
